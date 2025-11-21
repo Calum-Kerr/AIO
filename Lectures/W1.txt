@@ -1,5 +1,0 @@
-n!/2n if all itmes are the same.. (factorial).. 
-
-knapsack is n(to the power)=x to give total possibles solutions..
-
-euclidian is best for flat plains..
